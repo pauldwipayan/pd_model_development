@@ -1,0 +1,1 @@
+This is a scorecard model used in Credit Risk Modelling to determine the probabilty of a person defaulting given a set of information.
